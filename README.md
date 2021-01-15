@@ -1,7 +1,7 @@
 
 ### Scraping legal case information from bailii.org
 
-This is part one of a capstone project I completed during the Cambridge Spark bootcamp. The project was proposed by wavelength.law. I made use of a pretrained Spacy Named entity Recognition Model called Blackstone which has been trained on English legal texts to extract relevant  
+This is part one of a capstone project I completed during the Cambridge Spark bootcamp. The project was proposed by wavelength.law. I made use of Beautiful Soup to extract legal case information from the Bailii.org website. I also used a pretrained Spacy Named Entity Recognition Model called Blackstone, trained on English legal texts, to extract relevant sections and Acts from the legal cases.
 
 ### Installation of Software.
 

@@ -1,6 +1,9 @@
-# Capstone Part 1 Readme
 
-### Installation of Software for Part 1.
+### Scraping legal case information from bailii.org
+
+This is part one of a capstone project I completed during the Cambridge Spark bootcamp. The project was proposed by wavelength.law. I made use of a pretrained Spacy Named entity Recognition Model called Blackstone which has been trained on English legal texts to extract relevant  
+
+### Installation of Software.
 
 Spacy 2.1.8 is required to work with blackstone, see the blackstone github page for more detais:
 
